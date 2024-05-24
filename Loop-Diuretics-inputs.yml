@@ -1,0 +1,96 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/loop-diuretics-hydrochloride---primary.py
+inputModule3:
+  class: File
+  path: python/loop-diuretics-lasix---primary.py
+inputModule4:
+  class: File
+  path: python/loop-diuretics-hillcross---primary.py
+inputModule5:
+  class: File
+  path: python/loop-diuretics-amiloride---primary.py
+inputModule6:
+  class: File
+  path: python/loop-diuretics-sandoz---primary.py
+inputModule7:
+  class: File
+  path: python/loop-diuretics-liquid---primary.py
+inputModule8:
+  class: File
+  path: python/loop-diuretics-rosemont---primary.py
+inputModule9:
+  class: File
+  path: python/loop-diuretics-bumetanide---primary.py
+inputModule10:
+  class: File
+  path: python/loop-diuretics-capsule---primary.py
+inputModule11:
+  class: File
+  path: python/loop-diuretics-wockhardt---primary.py
+inputModule12:
+  class: File
+  path: python/loop-diuretics-ashbourne---primary.py
+inputModule13:
+  class: File
+  path: python/loop-diuretics-hoechstmar---primary.py
+inputModule14:
+  class: File
+  path: python/loop-diuretics-10mmol---primary.py
+inputModule15:
+  class: File
+  path: python/loop-diuretics-burinex---primary.py
+inputModule16:
+  class: File
+  path: python/loop-diuretics-helio---primary.py
+inputModule17:
+  class: File
+  path: python/loop-diuretics-actavis---primary.py
+inputModule18:
+  class: File
+  path: python/loop-diuretics-tablet---primary.py
+inputModule19:
+  class: File
+  path: python/loop-diuretics-solution---primary.py
+inputModule20:
+  class: File
+  path: python/loop-diuretics-furosemide---primary.py
+inputModule21:
+  class: File
+  path: python/loop-diuretics-500mg---primary.py
+inputModule22:
+  class: File
+  path: python/loop-diuretics-frusol---primary.py
+inputModule23:
+  class: File
+  path: python/loop-diuretics-torem---primary.py
+inputModule24:
+  class: File
+  path: python/loop-diuretics-torasemide---primary.py
+inputModule25:
+  class: File
+  path: python/loop-diuretics-pharm---primary.py
+inputModule26:
+  class: File
+  path: python/loop-diuretics-coamilofruse---primary.py
+inputModule27:
+  class: File
+  path: python/loop-diuretics-77mmol---primary.py
+inputModule28:
+  class: File
+  path: python/loop-diuretics-potassium---primary.py
+inputModule29:
+  class: File
+  path: python/loop-diuretics-sanofi---primary.py
+inputModule30:
+  class: File
+  path: python/loop-diuretics-triamterene---primary.py
+inputModule31:
+  class: File
+  path: python/effervescent-loop-diuretics---primary.py
+inputModule32:
+  class: File
+  path: python/output-cases.py
